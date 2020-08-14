@@ -1,2 +1,2 @@
-# hackernews-clone-server
-Hackernews Clone server using Django-Graphene
+# hackernews-clone
+Getting started exercise for using Django and Graphene
